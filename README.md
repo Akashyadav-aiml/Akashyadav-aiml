@@ -63,9 +63,10 @@
 ### 📈 GitHub & Coding Stats
 
 
-  <!-- GitHub Streak -->
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akashyadav-aiml&theme=radical&hide_border=false" height="450" />
 </p>
+
 
 
 ### 🔗 Connect with Me
