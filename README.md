@@ -76,3 +76,34 @@ I'm <b>Akash Yadav</b> from India.<br><br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akashyadav-aiml&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=akashyadav-aiml&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/akashydv2005?theme=dark&border=0&radius=10" height="300" alt="LeetCode Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- HackerRank Badge -->
+  <img src="https://hr-apps-prod-akm-hrcdn-files.s3.amazonaws.com/static/media/hackerrank_logo.png" height="40" alt="HackerRank Logo" />
+</div>
+
+<div align="center">
+  <!-- HackerRank Profile Stats via Badge -->
+  <a href="https://www.hackerrank.com/profile/aksydv111">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile"/>
+  </a>
+</div>
+
