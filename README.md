@@ -62,10 +62,7 @@
 
 ### 📈 GitHub & Coding Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akashyadav-aiml&show_icons=true&theme=radical" height="150" />
-  
+
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=akashyadav-aiml&theme=radical&hide_border=false" height="150" />
 </p>
