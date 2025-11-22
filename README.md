@@ -1,77 +1,78 @@
-<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Student</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
----
+###
 
-### 🔭 I’m currently working on
-- **Project:** (add your project name)  
-- **Link:** (add your link)
+<div align="center">
+  <a href="https://www.linkedin.com/in/akash-yadav-89216a268">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+</div>
 
-### 👯 I’m looking to collaborate on
-- **Project:** (add project name)  
-- **Link:** (add link)
+###
 
-### 🤝 I’m looking for help with
-- **Project:** (add project name)  
-- **Link:** (add link)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akashyadav-aiml.akashyadav-aiml" />
+</div>
 
-### 🌱 I’m currently learning
-**AI & Machine Learning Engineering**
+###
 
-### 💬 Ask me about
-**React, Vue, GSAP**
+<h1 align="center">Hey there 👋</h1>
 
-### 📫 How to reach me
-**akashyadav.aiml@gmail.com**
+###
 
-### 👨‍💻 All of my projects are available at
-**https://akashyadav-aiml.github.io/portfolio-website/**
+<h3 align="left">👩‍💻  About Me</h3>
 
-### 📝 I regularly write articles on
-*(add your blog link)*
+###
 
-### 📄 Know about my experiences
-**https://drive.google.com/file/d/1qzuAlxkT7LvXOSkWxzr5VapYt-clusKG/view**
+<p align="left">
+I'm <b>Akash Yadav</b> from India.<br><br>
+- 🔭 I’m working on improving my AI/ML skills and building real-world projects.<br>
+- 📚 I'm currently learning <b>Artificial Intelligence, Machine Learning & English communication</b>.<br>
+- ⚡ In my free time I solve problems, read tech articles, learn new tools, and explore ML models.
+</p>
 
-### ⚡ Fun fact
-**I think I am funny 😄**
+###
 
----
+<h3 align="left">🛠 Languages and Tools</h3>
 
-## 🛠️ Skills
+###
 
-### Programming Languages  
-c • cplusplus • python
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
 
-### Frontend Development  
-react • vuejs • bootstrap • html5 • css3 • tailwind
+###
 
-### Backend Development  
-nodejs • express • nginx
+<h3 align="left">🔥   My Stats :</h3>
 
-### AI/ML  
-tensorflow • pytorch • pandas • opencv • scikit_learn
+###
 
-### Database  
-mysql • mongodb • postgresql
-
-### DevOps  
-docker • aws • git
-
-### Others  
-linux • arduino
-
----
-
-## 🌐 Socials
-
-- **GitHub:** https://github.com/akashyadav-aiml  
-- **LinkedIn:** https://www.linkedin.com/in/akash-yadav-89216a268  
-- **Kaggle:** https://www.kaggle.com/aksydv1  
-- **HackerRank:** https://www.hackerrank.com/profile/aksydv111  
-- **LeetCode:** https://leetcode.com/u/akashydv2005/  
-
----
-
-## ☕ Support Me
-**Buy Me A Coffee:** akashyadav.aiml@gmail.com
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akashyadav-aiml&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
