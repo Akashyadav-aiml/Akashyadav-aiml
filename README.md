@@ -1,52 +1,77 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
+<h3 align="center">Artificial Intelligence & Machine Learning Student</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+### 🔭 I’m currently working on
+- **Project:** (add your project name)  
+- **Link:** (add your link)
 
-###
+### 👯 I’m looking to collaborate on
+- **Project:** (add project name)  
+- **Link:** (add link)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+### 🤝 I’m looking for help with
+- **Project:** (add project name)  
+- **Link:** (add link)
 
-###
+### 🌱 I’m currently learning
+**AI & Machine Learning Engineering**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 💬 Ask me about
+**React, Vue, GSAP**
 
-###
+### 📫 How to reach me
+**akashyadav.aiml@gmail.com**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 👨‍💻 All of my projects are available at
+**https://akashyadav-aiml.github.io/portfolio-website/**
 
-###
+### 📝 I regularly write articles on
+*(add your blog link)*
+
+### 📄 Know about my experiences
+**https://drive.google.com/file/d/1qzuAlxkT7LvXOSkWxzr5VapYt-clusKG/view**
+
+### ⚡ Fun fact
+**I think I am funny 😄**
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages  
+c • cplusplus • python
+
+### Frontend Development  
+react • vuejs • bootstrap • html5 • css3 • tailwind
+
+### Backend Development  
+nodejs • express • nginx
+
+### AI/ML  
+tensorflow • pytorch • pandas • opencv • scikit_learn
+
+### Database  
+mysql • mongodb • postgresql
+
+### DevOps  
+docker • aws • git
+
+### Others  
+linux • arduino
+
+---
+
+## 🌐 Socials
+
+- **GitHub:** https://github.com/akashyadav-aiml  
+- **LinkedIn:** https://www.linkedin.com/in/akash-yadav-89216a268  
+- **Kaggle:** https://www.kaggle.com/aksydv1  
+- **HackerRank:** https://www.hackerrank.com/profile/aksydv111  
+- **LeetCode:** https://leetcode.com/u/akashydv2005/  
+
+---
+
+## ☕ Support Me
+**Buy Me A Coffee:** akashyadav.aiml@gmail.com
