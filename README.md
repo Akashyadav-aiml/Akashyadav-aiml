@@ -55,7 +55,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,tensorflow,pytorch,sklearn,opencv,html,css,js,react,linux,git,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,mysql,tensorflow,pytorch,sklearn,opencv,html,css,git,vscode,pycharm" />
 </p>
 
 ---
