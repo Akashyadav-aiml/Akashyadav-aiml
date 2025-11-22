@@ -64,22 +64,9 @@
 
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashyadav-aiml&theme=radical&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akashyadav-aiml&theme=radical&hide_border=false" height="450" />
 </p>
 
-<p align="center">
-  <!-- LeetCode -->
-  <img src="https://leetcard.jacoblin.cool/akashydv2005?theme=dark&border=0&radius=10" height="300" />
-</p>
-
-<p align="center">
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/aksydv111">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank" />
-  </a>
-</p>
-
----
 
 ### 🔗 Connect with Me
 
