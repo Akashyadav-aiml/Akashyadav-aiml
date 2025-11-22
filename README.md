@@ -22,7 +22,7 @@
 
 ###
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">A passionate AIML student and future AI Engineer from India 🇮🇳</h3>
+<h3 align="center">A passionate AIML student and future AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20ML%20Enthusiast;Full-Stack%20Python%20%7C%20C%20%7C%20C%2B%2B;ML%20%7C%20DL%20%7C%20Data%20Science;Problem%20Solver%20%7C%20Tech%20Explorer&center=true&width=500&height=45" />
